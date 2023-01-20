@@ -1,0 +1,85 @@
+html{
+    background-color:rgba(183, 180, 180, 0.747);
+}
+body{
+    margin-right: 150px;
+}
+
+#p1{
+   background-image:url("https://www.rivm.nl/sites/default/files/styles/carousel_mobile/public/2018-11/Header%20NEVO%20en%20Portie%20Online.jpg?h=db682d1e&itok=pa0OtSVc"); 
+   background-repeat:no-repeat;
+   background-size:100% 95%;
+   height:600px;
+   margin-top:70px;
+}
+#titleName1,#titleName2{
+    text-align:center;
+    font-weight:bold;
+    font-style:italic;
+}
+
+#p2{
+    background-color:rgb(212, 157, 19);
+    font-style:italic;
+    color:white;
+    text-align: center;
+    margin-top:8px;
+    padding-top:10px;
+    padding-bottom:5px;
+}
+#favFood1{
+    font-size:25px;
+    padding:5px;
+}
+#foodDescription{
+    font-size:15px;
+}
+#favFoodImage1{
+    border:3px solid white;
+    padding:5px;
+    height:560px;
+    width:900px;
+}
+
+#p3{
+    background-color:rgb(218, 3, 218);
+    padding-top: 3px;
+    margin-top:8px;
+    color:white;
+    text-align:center;
+    font-style:italic;
+    padding-bottom:15px;
+}
+#favFood2{
+    font-size:25px;
+}
+#foodDescription2{
+    font-size:13px;
+}
+#favFoodImage2{
+    border:3px solid white;
+    padding:5px;
+    height:560px;
+    width:900px
+}
+#p4{
+    background-color:rgb(3, 185, 205) ;
+    text-align:center;
+    color:white;
+    font-style:italic;
+    margin-top:8px;
+    padding-top:2px;
+    padding-bottom:5px;
+}
+#favFood3{
+    font-size:25px;
+}
+#foodDescription3{
+    font-size:13px;
+}
+#favFoodImage3{
+    border:3px solid white;
+    padding:30px;
+    height: 500px;
+    width:800px;
+}
